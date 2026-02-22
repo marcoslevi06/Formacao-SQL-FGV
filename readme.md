@@ -38,6 +38,6 @@ O curso **SQL – Structured Query Language** da FGV Online abrange os fundament
 
 O certificado de conclusão está disponível neste repositório:
 
-📎 [`certificado_sql_fgv.pdf`](./certificado_sql_fgv.pdf)
+📎 [`certificado_sql_fgv.pdf`](./Certificado_SQL_Marcos_Levi_14764908_certificado_Fgv.pdf)
 
 ---
